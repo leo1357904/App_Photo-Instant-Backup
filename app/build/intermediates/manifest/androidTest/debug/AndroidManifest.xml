@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="lincyu.chapter15_basiccamera.test">
+
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="19" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="lincyu.chapter15_basiccamera"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for lincyu.chapter15_basiccamera"/>
+</manifest>

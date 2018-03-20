@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical" >
+	<TextView android:id="@+id/tv_camerastatus"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="10sp"
+		/>
+	<Button android:id="@+id/btn_tp"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="30sp"
+		android:text="拍照上傳"
+		/>
+
+</LinearLayout>
+<!-- From: file:/C:/Users/USER/AndroidStudioProjects/Chapter15_BasicCamera/app/src/main/res/layout/addviews.xml -->

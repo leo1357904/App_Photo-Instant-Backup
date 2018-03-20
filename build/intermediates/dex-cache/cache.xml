@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\USER\AndroidStudioProjects\Chapter15_BasicCamera\app\libs\httpmime-4.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\Chapter15_BasicCamera\app\build\intermediates\pre-dexed\debug\httpmime-4.3-74ec3a924074eea84bd14f5a5fe70c8f845fdad7.jar" />
+    </item>
+
+</items>

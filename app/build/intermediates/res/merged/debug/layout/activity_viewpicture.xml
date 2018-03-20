@@ -1,0 +1,7 @@
+<ImageView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/iv"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	/>
+<!-- From: file:/C:/Users/USER/AndroidStudioProjects/Chapter15_BasicCamera/app/src/main/res/layout/activity_viewpicture.xml -->
